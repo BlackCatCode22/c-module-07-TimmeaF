@@ -1,0 +1,20 @@
+Hyena Habitat:
+Hy1; Prince; age 4; birth date 2021-04-01; tan color; female; 70 pounds; from Friguia Park, Tunisia
+Hy2; Nne; age 12; birth date 2013-10-01; brown color; male; 150 pounds; from Friguia Park, Tunisia
+Hy3; Zig; age 4; birth date 2021-04-01; black color; male; 120 pounds; from Friguia Park, Tunisia
+Lion Habitat:
+Li1; King; age 6; birth date 2019-04-01; tan color; female; 300 pounds; from Zanzibar, Tanzania
+Li2; Mufasa; age 12; birth date 2013-01-01; dark tan color; female; 375 pounds; from KopeLion, Tanzania
+Li3; Nala; age 22; birth date 2003-10-01; golden color; male; 450 pounds; from Zanzibar, Tanzania
+Li4; Kimba; age 4; birth date 2021-04-01; tan and brown color; female; 275 pounds; from KopeLion, Tanzania
+Tiger Habitat:
+Ti1; Jiba; age 2; birth date 2023-04-01; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh
+Ti2; Amber; age 4; birth date 2021-04-01; black stripes color; female; 400 pounds; from Dhaka, Bangladesh
+Ti3; Ryker; age 18; birth date 2007-10-01; gold and tan color; male; 300 pounds; from Bardia, Nepal
+Ti4; Cosimia; age 3; birth date 2022-04-01; black stripes color; female; 285 pounds; from Bardia, Nepal
+Bear Habitat:
+Be1; Snuggles; age 7; birth date 2018-04-01; brown color; male; 320 pounds; from Alaska Zoo, Alaska
+Be2; Winnie the Pooh; age 25; birth date 2000-04-01; black color; female; 425 pounds; from Woodland park Zoo, Washington
+Be3; Rupert; age 4; birth date 2021-10-01; black color; female; 355 pounds; from Woodland park Zoo, Washington
+Be4; Bungle; age 4; birth date 2021-04-01; brown color; male; 405 pounds; from Alaska Zoo, Alaska
+-----------------------------
